@@ -54,6 +54,24 @@ john --show myhashes.txt
 4. **Password Recovery** – Successfully cracked passwords are displayed.
 
 ## OUTPUT:
+<img width="955" height="925" alt="VirtualBox_kali_08_10_2025_08_37_55" src="https://github.com/user-attachments/assets/26db1407-3759-4b08-b042-753df0b1bd81" />
+
+<img width="955" height="925" alt="VirtualBox_kali_08_10_2025_08_39_15" src="https://github.com/user-attachments/assets/3838cc63-0750-479d-b831-9ee11950f129" />
+
+<img width="955" height="925" alt="VirtualBox_kali_08_10_2025_08_41_04" src="https://github.com/user-attachments/assets/1f6c4ee5-dd03-45fb-8b47-890fb2bc42c9" />
+
+
+<img width="955" height="925" alt="VirtualBox_kali_08_10_2025_08_41_44" src="https://github.com/user-attachments/assets/7df9524f-ccf8-4290-9615-cc1d4fa6c1d1" />
+
+<img width="955" height="925" alt="VirtualBox_kali_08_10_2025_08_42_26" src="https://github.com/user-attachments/assets/98a98d95-1758-4cb3-901f-40bc984526cd" />
+
+<img width="955" height="925" alt="VirtualBox_kali_08_10_2025_08_43_32" src="https://github.com/user-attachments/assets/9fceca7c-8728-4fb9-8ec7-bfd4930caf4e" />
+
+<img width="955" height="925" alt="VirtualBox_kali_08_10_2025_08_48_45" src="https://github.com/user-attachments/assets/faade71c-22f5-4b62-a270-369c938c6306" />
+
+<img width="955" height="925" alt="VirtualBox_kali_08_10_2025_08_51_10" src="https://github.com/user-attachments/assets/977c3733-347e-4568-a883-a8483179067a" />
+
+
 Cracked Passwords from Hash File
 
 ## RESULT:
